@@ -20,7 +20,5 @@ int main (int argc, const char * argv[])
     
     cout<<*b;
     cout<<a;
-    
-    
 }
 
